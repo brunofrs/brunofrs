@@ -1,4 +1,4 @@
-# Oi, eu sou Bruno Fernandes, estudante de cybersecurity e programação(PHP, javascript e python).
+# Oi, eu sou Bruno Fernandes, estudante de cybersecurity, redes e programação.
 
 <div align="center">
   <a href="https://github.com/brunofrs">
@@ -12,5 +12,5 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruno-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Bruno-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/php-original.svg">
 </div>
