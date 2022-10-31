@@ -19,7 +19,7 @@
   <img align="center" alt="Mysql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Bootstrap" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="nginx" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-  <img align="center" alt="Apache" height="60" width="70" src="https://raw.githubusercontent.com)/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg)">
+  <img align="center" alt="Apache" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
 </div>
 
   <br>
