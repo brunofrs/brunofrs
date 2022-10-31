@@ -20,7 +20,8 @@
   <img align="center" alt="Bruno-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
 </div>
 
-  
-  <div align="center">
+  <br>
+  <br>
+  <div align="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofrs&layout=compact&langs_count=7&theme=gotham"/>  
   </div>
