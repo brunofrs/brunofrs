@@ -18,6 +18,8 @@
   <img align="center" alt="Bruno-redhat" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg">
   <img align="center" alt="Bruno-Mysql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Bruno-Bootstrap" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Bruno-Bootstrap" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg)">
+  <img align="center" alt="Bruno-Bootstrap" height="60" width="70" src="https://raw.githubusercontent.com)/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg)">
 </div>
 
   <br>
