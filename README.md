@@ -26,8 +26,7 @@
 
   <br>
 <p align="center"> 
-  Visitors count<br>
+  Contagem de visitantes<br>
   <img src="https://profile-counter.glitch.me/brunofrs/count.svg" />
 </p>
-
 <img src="stats.gif" width="90%"><br/><br/>
