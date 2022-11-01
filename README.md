@@ -24,10 +24,10 @@
   <img align="center" alt="Apache" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-  
+  <br>
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/brunofrs/count.svg" />
 </p>
 
 <img src="stats.gif" width="90%"><br/><br/>
