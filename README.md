@@ -7,7 +7,7 @@
 </div>
   
   
-<img src="https://tryhackme-badges.s3.amazonaws.com/heisenbergtk.png" alt="TryHackMe">
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/heisenbergtk.png" alt="TryHackMe">
 
 
  <h3>Minhas tecnologias preferidas:</h3>
