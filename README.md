@@ -14,7 +14,7 @@
 ## TryHackMe
 https://tryhackme.com/p/brunofsec
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/brunofsec.png" alt="TryHackMe"><br>
+  
 </div>
 
 ## Tecnologias Favoritas
