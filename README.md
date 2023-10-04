@@ -17,8 +17,6 @@
 <img alt="c" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img alt="Apache" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 <img alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-
 </div>
 
 
@@ -26,13 +24,12 @@
 https://tryhackme.com/p/brunofsec
 <div align="center">
 <a target="_blank" href="https://tryhackme.com/p/brunofsec"><img height="58" title="brunofsec Profile" alt="TryHackMe brunofsec Profile" src="https://tryhackme-badges.s3.amazonaws.com/brunofsec.png"></a>
-
 </div>
 
 
 ## Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofrs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Bruno Fernandes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofrs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Bruno Fernandes"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofrs&layout=compact&langs_count=7&theme=gotham" alt="Linguagens mais usadas por Bruno Fernandes">
 </div>
 
