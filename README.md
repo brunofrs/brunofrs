@@ -25,8 +25,7 @@
 ## TryHackMe
 https://tryhackme.com/p/brunofsec
 <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/brunofsec.png" alt="TryHackMe">
-<script src="https://tryhackme.com/badge/1998496"></script>
+<a target="_blank" href="https://tryhackme.com/p/brunofsec"><img height="58" title="brunofsec Profile" alt="TryHackMe Trevohack Profile" src="https://tryhackme-badges.s3.amazonaws.com/brunofsec.png"></a>
 
 </div>
 
