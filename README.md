@@ -23,7 +23,7 @@
 ## TryHackMe
 https://tryhackme.com/p/brunofsec
 <div align="center">
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/brunofsec.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/brunofsec.png" alt="TryHackMe">
 </div>
 
 
