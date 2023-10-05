@@ -23,11 +23,11 @@
 
 
 ## TryHackMe
-https://tryhackme.com/p/brunofsec
 <div align="center">
-<a target="_blank" href="https://tryhackme.com/p/brunofsec"><img height="58" title="brunofsec Profile" alt="TryHackMe brunofsec" src="https://tryhackme-badges.s3.amazonaws.com/brunofsec.png"></a>
+https://tryhackme.com/p/brunofsec
+<a target="_blank" href="https://tryhackme.com/badge/1998496"><img height="58" title="brunofsec Profile" alt="TryHackMe brunofsec" src="https://tryhackme-badges.s3.amazonaws.com/brunofsec.png"></a>
 
- ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/brunofsec.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/brunofsec.png)
 
 </div>
 
