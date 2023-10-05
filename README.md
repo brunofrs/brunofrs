@@ -1,14 +1,9 @@
 # Olá, sou Bruno Fernandes 👋
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/brunofsec.png)](https://tryhackme.com/p/brunofsec)
-
-
-
 ## Sobre mim
 - Estudante de cibersegurança, redes e programação.
 - Apaixonado por tecnologia e aprendizado constante.
 - Sempre em busca de desafios e novas oportunidades.
-
 
 ## Habilidades Técnicas
 <div align="center">
@@ -22,14 +17,13 @@
 <img alt="Apache" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 <img alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="Vscode" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
 </div>
 
 
 ## TryHackMe
 https://tryhackme.com/p/brunofsec
 <div align="center">
-<a target="_blank" href="https://tryhackme.com/badge/1998496"><img height="58" title="brunofsec Profile" alt="TryHackMe brunofsec" src="https://tryhackme-badges.s3.amazonaws.com/brunofsec.png"></a>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/brunofsec.png)](https://tryhackme.com/p/brunofsec)
 </div>
 
 
