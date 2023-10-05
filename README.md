@@ -1,5 +1,9 @@
 # Olá, sou Bruno Fernandes 👋
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/brunofsec.png)](https://tryhackme.com/p/brunofsec)
+
+
+
 ## Sobre mim
 - Estudante de cibersegurança, redes e programação.
 - Apaixonado por tecnologia e aprendizado constante.
