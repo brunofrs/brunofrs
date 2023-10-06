@@ -1,4 +1,4 @@
-# Olá, sou Bruno Fernandes 👋
+![image](https://github.com/brunofrs/brunofrs/assets/52774583/b9b415ed-efbf-4dfd-8960-196e6e53e273)# Olá, sou Bruno Fernandes 👋
 
 ## Sobre mim
 - Estudante de cibersegurança, redes e programação.
@@ -24,7 +24,7 @@
 <div align="center">
 https://tryhackme.com/p/brunofsec
 <br><br>
-<a target="_blank" href="https://tryhackme.com/p/brunofsec"><img height="58" title="TryHackMe Profile" alt="TryHackMe brunofsec Profile" src="https://github.com/brunofrs/brunofrs/assets/52774583/8d8fb74c-48a1-436b-b713-df9727c1fd92"></a>
+<img src"https://github.com/brunofrs/brunofrs/assets/52774583/4c2f465a-5349-4ba0-8811-4b87d2c59297">
 </div>
 
 
