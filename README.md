@@ -1,4 +1,4 @@
-![image](https://github.com/brunofrs/brunofrs/assets/52774583/b9b415ed-efbf-4dfd-8960-196e6e53e273)# Olá, sou Bruno Fernandes 👋
+# Olá, sou Bruno Fernandes 👋
 
 ## Sobre mim
 - Estudante de cibersegurança, redes e programação.
