@@ -24,7 +24,8 @@
 <div align="center">
 https://tryhackme.com/p/brunofsec
 <br><br>
-<img src"https://github.com/brunofrs/brunofrs/assets/52774583/4c2f465a-5349-4ba0-8811-4b87d2c59297">
+<img src"https://github.com/brunofrs/brunofrs/assets/52774583/75116105-e3a4-44c8-a577-514895d8c73e">
+
 </div>
 
 
