@@ -25,8 +25,7 @@
 https://tryhackme.com/p/brunofsec
 <br><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/brunofsec.png" alt="TryHackMe">
-![image](https://github.com/brunofrs/brunofrs/assets/52774583/b6d20c72-05aa-469e-8572-b16a1dcdf37e)
-
+<img src="https://github.com/brunofrs/brunofrs/assets/52774583/8d8fb74c-48a1-436b-b713-df9727c1fd92" alt="TryHackMe">
 </div>
 
 
