@@ -9,7 +9,7 @@ Também sou CTF Player e busco desenvolver minhas habiliddades no TryHackme e Ha
 <div align="center">
 https://tryhackme.com/p/brunofsec
 <br><br>
-<script src="https://tryhackme.com/badge/1998496"></script>
+<img src="https://tryhackme.com/badge/1998496"></img>
 </div>
 
 
