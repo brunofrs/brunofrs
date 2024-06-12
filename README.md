@@ -1,31 +1,15 @@
-# Olá, sou Bruno Fernandes 👋
+# Sobre mim
+Sou Bruno Fernandes, um apaixonado por cibersegurança. Tenho experiência prática em redes e sistemas Linux, estou sempre em busca de novas oportunidades para aprender e aplicar minhas habilidades. Tenho um forte interesse em segurança ofensiva e defensiva. Meu objetivo é contribuir para a proteção de informações e redes em um ambiente profissional, onde eu possa continuar a crescer e evoluir. 
 
-## Sobre mim
-- Estudante de cibersegurança, redes e programação.
-- Apaixonado por tecnologia e aprendizado constante.
-- Sempre em busca de desafios e novas oportunidades.
+Também sou CTF Player e busco desenvolver minhas habiliddades no TryHackme e HackTheBox.
 
-## Habilidades Técnicas
-<div align="center">
-<img alt="Debian" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg"/>
-<img alt="JavaScript" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="Linux" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img alt="MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-<img alt="php" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img alt="Bash" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img alt="c" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img alt="Apache" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-<img alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="Vscode" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
 
 
 ## TryHackMe
 <div align="center">
 https://tryhackme.com/p/brunofsec
 <br><br>
-<img src="https://github.com/brunofrs/brunofrs/assets/52774583/75116105-e3a4-44c8-a577-514895d8c73e">
-
+<script src="https://tryhackme.com/badge/1998496"></script>
 </div>
 
 
