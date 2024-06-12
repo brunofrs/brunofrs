@@ -8,7 +8,6 @@ Também sou CTF Player e busco desenvolver minhas habiliddades no TryHackme e Ha
 ## TryHackMe
 <div align="center">
 - 👑 Jogador de KOTH(TOP #5 BR)
-<a href="https://tryhackme.com/p/brunofsec"><img src="https://tryhackme-badges.s3.amazonaws.com/brunofsec.png" alt="TryHackMe"></a >
 </div>
 
 
